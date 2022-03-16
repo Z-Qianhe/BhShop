@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "SearchsInput":"../../components/SearchInput/SearchInput"
+  },
+  "navigationBarTitleText": "博华APP"
+}
